@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-<<<<<<< HEAD
 int main(void)
 {
+	hoiiiiiiiiiiiiiiiiiiiiiiiiii
 	printf("Hello C++ World");
 	printf("hello.c");
 	printf("hell no");
